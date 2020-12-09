@@ -131,9 +131,9 @@ implicitSettingsFromExplicitSettings settings =
     }
 
 
-farmArmyPresetNamePatternDefault : String
-farmArmyPresetNamePatternDefault =
-    "farm"
+farmArmyPresetNamePattern : List String
+farmArmyPresetNamePattern =
+   ["LC","MA", "Axe", "HC", "SP", "Archer", "Sword", "Farm", "Spear", "AX", "SW", "AR", "f1", "f2", "f3", "f4", "loot"]
 
 
 restartGameClientInterval : Int
