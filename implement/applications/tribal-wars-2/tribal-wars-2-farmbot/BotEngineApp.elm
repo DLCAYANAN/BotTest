@@ -131,7 +131,7 @@ implicitSettingsFromExplicitSettings settings =
     }
 
 
-farmArmyPresetNamePatternDefault : List String
+farmArmyPresetNamePatternDefault : String
 farmArmyPresetNamePatternDefault =
    ["LC","MA", "Axe", "HC", "SP", "Archer", "Sword", "Farm", "Spear", "AX", "SW", "AR", "f1", "f2", "f3", "f4", "loot"]
 
