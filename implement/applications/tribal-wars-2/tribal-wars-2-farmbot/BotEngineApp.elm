@@ -127,7 +127,7 @@ implicitSettingsFromExplicitSettings settings =
                 [ farmArmyPresetNamePatternDefault ]
 
             else
-                settings.farmArmyPresetPatternsDefault
+                settings.farmArmyPresetPatterns
     }
 
 
